@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-hello MY NAME IS ADRIAN. and I'm testing what is github.
+Hello my name is Adrian D. Rivera. I'm testing what is github amd it's uses.
